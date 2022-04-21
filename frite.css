@@ -1,49 +1,55 @@
-div
-{
+div {
 
     display: flex;
     align-content: space-around;
     text-align: justify;
-    background-color: #c8850a    ;
+    background-color: #c8850a;
     padding-top: 147px;
 
 }
 
-section
-{
+section {
     width: 30%;
     margin: 5%;
     background-color: rgb(195, 233, 237);
     border-radius: 5%;
 }
 
-article
-{
+article {
     padding: 3%;
     color: rgb(7, 14, 8);
 
 }
 
-.headcolor
-{
+h2 {
+
+    text-align: center;
+
+}
+
+.headcolor {
     position: fixed;
     background-color: beige;
     margin: 0px;
     border-radius: 5%;
+    position: fixed;
     width: 100%;
 }
 
-body{
+body {
     margin: 0;
 }
 
-#img{
+;
+
+#img {}
+
+;
+
+
+#titles {
+    text-align: center;
 
 }
 
-
-#titles
-{
-   text-align: center;
-
-}
+;
