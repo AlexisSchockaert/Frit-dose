@@ -1,0 +1,25 @@
+div
+{
+
+    display: flex;
+    border-radius: 5%;
+    align-content: space-around;
+    text-align: justify;
+    background-color: #c8850a    ;
+    padding-top: 147px;
+
+}
+
+section
+{
+    width: 30%;
+    margin: 5%;
+    background-color: rgb(195, 233, 237);
+    border-radius: 5%;
+}
+
+article
+{
+    padding: 3%;
+    color: rgb(107, 236, 129);
+}
